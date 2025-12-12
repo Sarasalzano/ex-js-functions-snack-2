@@ -17,3 +17,4 @@ function creaContatoreAutomatico(intervallo) {
 }
   
 console.log(creaContatoreAutomatico(2000)());
+
